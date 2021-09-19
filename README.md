@@ -1,16 +1,11 @@
-# forestfire_frontend
+This is the Project page for Pyreye. A wildfire risk management Application.
 
-A new Flutter project.
+<a href="https://imgur.com/4WtX0XZ"><img src="https://i.imgur.com/4WtX0XZ.png" title="source: imgur.com" /></a>
 
-## Getting Started
+Pyreye is a web application that aims to help people living in areas under high-risk of wildfires to stay safe. Current warning systems are not adequate so Pyreye uses multiple datasets from publicly available data and satellite imagery to estimate and predict areas with high risk of wild fire occurrences. Users can get accurate weather and fire risk information right at their fingertips.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Team members include: Maxim Van Duyne, Nithiin Kathiresan, Krish Agrawal and Anand Kuro Andengattil.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Part of the main Backend Repo is available here: https://github.com/krishagrawal112/HackMIT-Pyreye/
