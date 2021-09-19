@@ -17,7 +17,7 @@ class SizeConfig {
 
 double getProportionateScreenHeight(double inputHeight) {
   double screenHeight = SizeConfig.screenHeight;
-  return (inputHeight / 754) * screenHeight;
+  return (inputHeight / 1080) * screenHeight;
 }
 
 double getProportionateScreenWidth(double inputWidth) {
