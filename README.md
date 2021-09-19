@@ -10,8 +10,9 @@ Team members include: Maxim Van Duyne, Nithiin Kathiresan, Krish Agrawal and Ana
 
 Part of the main Backend Repo is available here: https://github.com/krishagrawal112/HackMIT-Pyreye/
 
-
-https://api.weather.com/v3/wx/observations/current?geocode=40.58,-111.66&units=e&language=en-US&format=json&apiKey=<yourApiKey>
-API Key = 1bbf9714b9ac4babbf9714b9acebabca
-AEU, BDU, BTU, BEU
-Above uses Lat/Long coordinates
+API Link:
+      https://api.weather.com/v3/wx/observations/current?geocode=40.58,-111.66&units=e&language=en-US&format=json&apiKey=<yourApiKey>
+* API Key:
+      1bbf9714b9ac4babbf9714b9acebabca
+* AEU, BDU, BTU, BEU
+* Above uses Lat/Long coordinates
